@@ -1,0 +1,51 @@
+order_id,customer_name,order_date,amount,product
+1,John Doe,01/02/2024,120.50,Laptop
+2,Jane Smith,2024-02-03,89.99,Headphones
+3,Bob Johnson,02-04-2024,45.00,Mouse
+4,Alice Brown,2024/02/05,250.00,Monitor
+5,Charlie White,06-02-2024,75.25,Keyboard
+6,John Doe,01/02/2024,120.50,Laptop
+7,,2024-02-07,99.99,Tablet
+8,Emma Davis,02/08/2024,,Phone
+9,Liam Wilson,2024-02-09,60.00,Charger
+10,Olivia Moore,10-02-2024,30.00,Cable
+11,Noah Taylor,2024/02/11,15.00,USB Drive
+12,Ava Anderson,02-12-2024,200.00,Printer
+13,William Thomas,2024-02-13,150.00,Router
+14,Sophia Jackson,14/02/2024,85.00,Speaker
+15,James White,2024-02-15,40.00,Webcam
+16,Isabella Harris,02-16-2024,300.00,Desk
+17,Benjamin Martin,2024/02/17,220.00,Chair
+18,Mia Thompson,18-02-2024,55.00,Lamp
+19,Lucas Garcia,2024-02-19,130.00,SSD
+20,Charlotte Martinez,02/20/2024,90.00,RAM
+21,Elijah Robinson,2024-02-21,110.00,GPU
+22,Amelia Clark,22-02-2024,70.00,Power Supply
+23,Mason Rodriguez,2024/02/23,65.00,Cooling Fan
+24,Harper Lewis,24/02/2024,55.00,Case
+25,Ethan Lee,2024-02-25,80.00,Keyboard
+26,Evelyn Walker,02-26-2024,95.00,Mouse
+27,Alexander Hall,2024/02/27,150.00,Monitor
+28,Abigail Allen,28-02-2024,35.00,Cable
+29,Daniel Young,2024-02-29,60.00,Charger
+30,Emily Hernandez,03/01/2024,200.00,Tablet
+31,Michael King,2024-03-02,500.00,Laptop
+32,Elizabeth Wright,03-03-2024,250.00,Printer
+33,David Lopez,2024/03/04,120.00,Router
+34,Sofia Hill,05/03/2024,75.00,Speaker
+35,Joseph Scott,2024-03-06,60.00,Webcam
+36,Avery Green,03-07-2024,300.00,Desk
+37,Samuel Adams,2024/03/08,220.00,Chair
+38,Ella Baker,09-03-2024,55.00,Lamp
+39,Henry Nelson,2024-03-10,130.00,SSD
+40,Aria Carter,03/11/2024,90.00,RAM
+41,Jack Mitchell,2024-03-12,110.00,GPU
+42,Scarlett Perez,13-03-2024,70.00,Power Supply
+43,Logan Roberts,2024/03/14,65.00,Cooling Fan
+44,Grace Turner,15/03/2024,55.00,Case
+45,Jacob Phillips,2024-03-16,80.00,Keyboard
+46,Chloe Campbell,03-17-2024,95.00,Mouse
+47,Matthew Parker,2024/03/18,150.00,Monitor
+48,Lily Evans,19-03-2024,35.00,Cable
+49,Andrew Edwards,2024-03-20,60.00,Charger
+50,Natalie Collins,03/21/2024,200.00,Tablet
